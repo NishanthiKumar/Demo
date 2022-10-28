@@ -45,7 +45,7 @@ public class UseStudent {
 			System.out.println(st+",Fees paying percentage: "+per+"%");
 		}
 		
-		
+		System.err.println("***********");
 		
 		
 	}
